@@ -1,16 +1,34 @@
 # Tools-for-Analytics-Final-Project
-TFA FP
-We are processing the data
 
-############ DELETE LATER
-Descript README file with required information
+Group Name: Group 28 
 
-The repo has a README file that contains the project’s description, the group name, and the UNIs for each member of the group. Should be in one of the following formats/extensions: .md, .rst, or .txt
+Members: 
 
-#############
-Group Name:
+Devangi Shailendra Gaikwad: dsg2160
 
-Members: Devangi Shailendra Gaikwad: dsg2160
-         Luqman Yusuf Bharoto: lb3422
+Luqman Yusuf Bharoto: lb3422
 
-Project Description: 
+## Project Description: 
+
+The purpose of the project is to develop an analysis for interpreting data from yellow taxis and uber rides from January 2009 and June 2015. The motivation for this project
+arises from Uber's announcement (https://www.nytimes.com/2022/03/24/business/uber-new-york-taxis.html) to enable users to book yellow taxis from the Uber app.
+The team aimed to get insights and observe trends based on each trip's recorded data.
+
+## Project Data & Files in Repository
+
+Datasets include: 
+
+1. yellow_taxi_trips 
+
+2. uber_trips 
+
+3. historical weather_data 
+
+The project is divided into four sections: Data Preprocesing, Storing the Data, Understanding the Data and Data Visualization. 
+
+Code and instructions have been detailed out in the jupyter notebook. 
+
+This repository contains the jupyter notebook (TFA.ipnyb) for processing, analyzing and  visualizing all of the data also taking into account the weather during the given period. 
+ ### File types: 
+
+
