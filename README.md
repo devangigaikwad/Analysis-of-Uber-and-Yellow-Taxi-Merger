@@ -26,9 +26,10 @@ Datasets include:
 
 The project is divided into four sections: Data Preprocesing, Storing the Data, Understanding the Data and Data Visualization. 
 
-Code and instructions have been detailed out in the jupyter notebook. 
+Code and instructions have been detailed out in the jupyter notebook. Refer to the requirements.txt file for any pip installs and downalods before running the notebook. 
 
-This repository contains the jupyter notebook (TFA.ipnyb) for processing, analyzing and  visualizing all of the data also taking into account the weather during the given period. 
+This repository contains the Python code in jupyter notebook (TFA.ipynb) for processing, analyzing and visualizing all of the data. 
+
  ### File types: 
-
+.txt, .md, .ipynb, .sql, .gitignore
 
